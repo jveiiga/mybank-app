@@ -1,4 +1,4 @@
-# Back-End do Teste Técnico
+# Back-End
 
 O back-end do sistema **MyBank** é uma API RESTful desenvolvida para gerenciar usuários, contas bancárias e suas movimentações financeiras. Ele foi projetado para interagir com um front-end que realiza operações como depósitos, retiradas e consulta de extratos de contas bancárias.
 
